@@ -1,0 +1,19 @@
+{
+  "name": "eumilitar",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Elizandro Dantas",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
